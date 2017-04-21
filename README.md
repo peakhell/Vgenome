@@ -1,7 +1,7 @@
 # Vgenome
 This is a genome visualization web application using D3 and Flask,it's easy to install and use.
 
-##Install
+## Install
 1 first of all ,install the requirements,cause this app is using python3, so the install script is 
 ```
 pip3 install -r requirements.txt
